@@ -1,0 +1,5 @@
+Matter is anything that has mass and occupies space.
+
+Matter has two important properties:
+1. Mass
+2. Volume.

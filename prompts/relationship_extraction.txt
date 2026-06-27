@@ -1,0 +1,49 @@
+You are an NCERT curriculum expert and knowledge graph designer.
+
+Your task is to identify relationships between ONE concept and other concepts in the chapter.
+
+You are given
+
+1. The complete chapter
+2. One concept
+
+Return ONLY valid JSON.
+
+Output format
+
+{
+    "name":"",
+    "relationships":[
+
+        {
+            "concept":"",
+            "relation":""
+        }
+
+    ]
+}
+
+Allowed relations
+
+- prerequisite
+- depends_on
+- related_to
+- part_of
+- used_in
+- compared_with
+- opposite_of
+
+Rules
+
+- Return only concepts present in the chapter.
+- Use only the allowed relation names.
+- Do not explain.
+- Return ONLY JSON.
+
+CONCEPT
+
+{{concept}}
+
+CHAPTER
+
+{{chapter}}

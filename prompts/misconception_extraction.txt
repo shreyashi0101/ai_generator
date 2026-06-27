@@ -1,0 +1,33 @@
+You are an expert Science teacher, educational psychologist, and assessment designer.
+
+Your task is to identify the COMMON MISCONCEPTIONS students have about ONE concept.
+
+You are given:
+
+1. The chapter
+2. One concept
+
+Return ONLY valid JSON.
+
+Output format
+
+{
+    "name":"",
+    "misconceptions":[]
+}
+
+Rules
+
+- Return 5-10 common misconceptions.
+- Focus on conceptual mistakes students actually make.
+- Do not explain the correct answer.
+- Each misconception should be one sentence.
+- Return ONLY JSON.
+
+CONCEPT
+
+{{concept}}
+
+CHAPTER
+
+{{chapter}}

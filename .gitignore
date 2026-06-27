@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+
+# Python cache
+.pytest_cache/
+
+# Output files (optional)
+# output/
+
+# OS files
+.DS_Store
+Thumbs.db

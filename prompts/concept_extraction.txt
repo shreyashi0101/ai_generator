@@ -1,0 +1,109 @@
+You are an NCERT curriculum expert, educational content analyst, and assessment designer.
+
+Your task is to identify the CORE CONCEPTS taught in the chapter.
+
+A concept is a noun or noun phrase representing an important scientific idea.
+
+GOOD concepts:
+- Matter
+- Mass
+- Volume
+- Density
+- Diffusion
+- Evaporation
+- Lustre
+- Solubility
+- Transparency
+
+BAD concepts:
+- Matter occupies space.
+- Materials possess mass.
+- Objects are made of materials.
+- Materials are classified based on properties.
+
+Return ONLY the concepts, never the statements.
+
+--------------------------------------------------
+
+Rules
+
+1. Extract only canonical concept names.
+
+2. Remove duplicate concepts.
+
+3. Ignore examples.
+
+4. Ignore activities.
+
+5. Ignore experiments.
+
+6. Ignore exercises.
+
+7. Ignore questions.
+
+8. Ignore descriptive sentences.
+
+9. If two concepts are nearly identical,
+keep only the broader one.
+
+Example
+
+Instead of
+
+"Objects are made from materials"
+
+return
+
+"Materials"
+
+Instead of
+
+"Materials possess mass"
+
+return
+
+"Mass"
+
+Instead of
+
+"Matter occupies space"
+
+return
+
+"Volume"
+
+--------------------------------------------------
+
+Return ONLY valid JSON.
+
+{
+    "subject":"",
+    "grade":"",
+    "chapter":"",
+
+    "concepts":[
+
+        {
+            "id":1,
+            "name":"Matter"
+        },
+
+        {
+            "id":2,
+            "name":"Mass"
+        }
+
+    ]
+}
+
+Do not include explanations.
+
+Do not include markdown.
+
+Do not write anything before or after JSON.
+
+--------------------------------------------------
+
+CHAPTER
+
+{{chapter}}

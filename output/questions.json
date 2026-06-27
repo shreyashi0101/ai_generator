@@ -1,0 +1,227 @@
+[
+    {
+        "type": "MCQ",
+        "difficulty": "Easy",
+        "question": "What is the definition of matter?",
+        "options": [
+            "Anything that has mass but does not occupy space",
+            "Anything that occupies space but does not have mass",
+            "Anything that has mass and occupies space",
+            "Anything that has neither mass nor occupies space"
+        ],
+        "answer": "Anything that has mass and occupies space",
+        "explanation": "Matter is defined as anything that has mass and occupies space, which is a fundamental concept in physics and chemistry.",
+        "quality": {
+            "concept_accuracy": 10,
+            "bloom_alignment": 6,
+            "difficulty_accuracy": 8,
+            "distractor_quality": 9,
+            "explanation_quality": 8,
+            "ncert_alignment": 9,
+            "overall": 8,
+            "feedback": "The question accurately assesses the concept of matter, and the distractors are plausible but incorrect. However, the question only tests recall, which aligns with the lower levels of Bloom's taxonomy. The explanation provided is clear and concise, but could be more detailed. The question is well-aligned with the NCERT curriculum."
+        }
+    },
+    {
+        "type": "Conceptual",
+        "difficulty": "Medium",
+        "question": "Which of the following is an example of matter?",
+        "options": [
+            "A shadow on the wall",
+            "A car made of metal and plastic",
+            "A sound wave in the air",
+            "A beam of light"
+        ],
+        "answer": "A car made of metal and plastic",
+        "explanation": "A car made of metal and plastic is an example of matter because it has mass and occupies space, whereas a shadow, sound wave, and beam of light do not have mass and are not considered matter.",
+        "quality": {
+            "concept_accuracy": 10,
+            "bloom_alignment": 8,
+            "difficulty_accuracy": 8,
+            "distractor_quality": 9,
+            "explanation_quality": 9,
+            "ncert_alignment": 9,
+            "overall": 8.5,
+            "feedback": "The question accurately assesses the concept of matter, and the distractors are plausible but incorrect. The explanation provided is clear and concise. However, the question could be improved by making it more challenging or open-ended to better align with higher-order thinking skills in Bloom's taxonomy."
+        }
+    },
+    {
+        "type": "Conceptual",
+        "difficulty": "Medium",
+        "question": "What is the relationship between mass and weight?",
+        "options": [
+            "Mass and weight are the same thing",
+            "Mass is a measure of weight",
+            "Weight is a measure of mass",
+            "Mass and weight are different physical quantities"
+        ],
+        "answer": "Mass and weight are different physical quantities",
+        "explanation": "Mass and weight are often confused, but they are different physical quantities. Mass is a measure of the amount of matter in an object, while weight is a measure of the force exerted on an object due to gravity. This is a common misconception that needs to be addressed.",
+        "quality": {
+            "concept_accuracy": 9,
+            "bloom_alignment": 8,
+            "difficulty_accuracy": 8,
+            "distractor_quality": 9,
+            "explanation_quality": 9,
+            "ncert_alignment": 8,
+            "overall": 8.5,
+            "feedback": "The question is conceptually accurate and aligns well with the NCERT curriculum. The distractors are of high quality, and the explanation is clear and concise. However, the question could be improved by making it more specific to the NCERT syllabus and by adding more complexity to the distractors."
+        }
+    },
+    {
+        "type": "Case-Based",
+        "difficulty": "Medium",
+        "question": "Rahul is building a treehouse and wants to use the right materials for the roof. He needs something that is strong, durable, and can protect him from the rain. Which of the following types of matter would be most suitable for the roof?",
+        "options": [
+            "A gas, such as air, because it is light and easy to work with",
+            "A liquid, such as water, because it can flow and fill gaps",
+            "A solid, such as wood or metal, because it is strong and durable",
+            "A mixture of all three states of matter, because it would be the most versatile"
+        ],
+        "answer": "C",
+        "explanation": "Matter is anything that has mass and occupies space. In this scenario, Rahul needs a material that is strong, durable, and can protect him from the rain. A solid, such as wood or metal, would be the most suitable choice because it has the necessary properties to provide strength and protection. The other options are incorrect because a gas would not provide sufficient protection, a liquid would not be suitable for a roof, and a mixture of all three states of matter would not be practical or effective.",
+        "quality": {
+            "concept_accuracy": 9,
+            "bloom_alignment": 8,
+            "difficulty_accuracy": 8,
+            "distractor_quality": 7,
+            "explanation_quality": 9,
+            "ncert_alignment": 8,
+            "overall": 8,
+            "feedback": "The question is well-structured and accurately assesses the concept of matter. The Bloom's taxonomy alignment is good, requiring the student to apply their knowledge to a real-world scenario. The difficulty level is medium, suitable for the topic. The distractors are plausible but incorrect, making the question challenging. The explanation is clear and concise, providing a good justification for the correct answer. The question aligns well with the NCERT curriculum, covering the topic of matter and its properties."
+        }
+    },
+    {
+        "type": "Case-Based",
+        "difficulty": "Hard",
+        "question": "A bicycle is made up of various parts such as the frame, wheels, and seat. Which of the following statements is true about the matter that makes up the bicycle?",
+        "options": [
+            "The mass of the bicycle is the same as its weight",
+            "The volume of the bicycle is the same as its mass",
+            "The bicycle is made up of matter that has mass and occupies space",
+            "The matter that makes up the bicycle can be created or destroyed"
+        ],
+        "answer": "The bicycle is made up of matter that has mass and occupies space",
+        "explanation": "This question requires the application of the concept of matter, which is defined as anything that has mass and occupies space. The correct answer is based on the understanding that the bicycle, being made up of various parts, has mass and occupies space, making it an example of matter. The other options are incorrect because they are based on common misconceptions about matter, such as confusing mass and weight, or thinking that matter can be created or destroyed.",
+        "quality": {
+            "concept_accuracy": 9,
+            "bloom_alignment": 8,
+            "difficulty_accuracy": 8,
+            "distractor_quality": 7,
+            "explanation_quality": 9,
+            "ncert_alignment": 9,
+            "overall": 8,
+            "feedback": "The question is well-structured and accurately represents the concept of matter. The Bloom's taxonomy alignment is good, requiring application and understanding. The difficulty level is appropriate, and the distractors are plausible but incorrect. The explanation provided is clear and concise. The question aligns well with the NCERT curriculum. However, the question could be improved by making the distractors more challenging and nuanced."
+        }
+    },
+    {
+        "type": "HOTS",
+        "difficulty": "Medium",
+        "question": "A student argues that a balloon filled with air has no mass because it feels light when held. How would you explain to the student that the balloon does have mass, using the concept of matter?",
+        "options": [
+            "The balloon has mass because it occupies space and has a fixed shape",
+            "The balloon has mass because it is filled with a type of matter that is invisible",
+            "The balloon has mass because the air inside it has mass, even though it is not visible",
+            "The balloon has no mass because it is filled with air, which is not considered matter"
+        ],
+        "answer": "The balloon has mass because the air inside it has mass, even though it is not visible",
+        "explanation": "This question requires the student to apply their understanding of the concept of matter and mass to a real-life scenario, and to analyze the misconception presented by the student. The correct answer explains that the air inside the balloon has mass, even though it is not visible, which is a key aspect of the concept of matter. The other options are incorrect because they either misapply the concept of matter or rely on misconceptions about mass and weight.",
+        "quality": {
+            "concept_accuracy": 9,
+            "bloom_alignment": 8,
+            "difficulty_accuracy": 7,
+            "distractor_quality": 8,
+            "explanation_quality": 9,
+            "ncert_alignment": 8,
+            "overall": 8,
+            "feedback": "The question is well-structured and accurately assesses the student's understanding of the concept of matter. The distractors are plausible and require the student to think critically. However, the difficulty level could be adjusted to better reflect the 'Medium' categorization. Additionally, the question could be improved by providing more context or details to make it more realistic and engaging."
+        }
+    },
+    {
+        "type": "HOTS",
+        "difficulty": "Medium",
+        "question": "A balloon is filled with helium gas and then released into the air. As it rises, the density of the surrounding air decreases. What happens to the volume of the helium gas inside the balloon?",
+        "options": [
+            "It decreases",
+            "It remains the same",
+            "It increases",
+            "It becomes zero"
+        ],
+        "answer": "It increases",
+        "explanation": "As the balloon rises, the surrounding air pressure decreases. According to the properties of gases, when the pressure decreases, the volume of the gas increases, if the temperature remains constant. Therefore, the volume of the helium gas inside the balloon increases.",
+        "quality": {
+            "concept_accuracy": 9,
+            "bloom_alignment": 8,
+            "difficulty_accuracy": 8,
+            "distractor_quality": 7,
+            "explanation_quality": 9,
+            "ncert_alignment": 8,
+            "overall": 8,
+            "feedback": "The question is well-structured and accurately tests the concept of gas properties. However, the distractors could be more convincing, and the question assumes a constant temperature, which might not be explicitly stated in the NCERT curriculum."
+        }
+    },
+    {
+        "type": "Assertion-Reason",
+        "difficulty": "Easy",
+        "question": "Assertion: A car has mass and occupies space. Reason: Mass and volume are the same thing.",
+        "options": [
+            "Assertion is correct, Reason is correct and Reason explains Assertion",
+            "Assertion is correct, Reason is correct but Reason does not explain Assertion",
+            "Assertion is correct, Reason is incorrect",
+            "Assertion is incorrect, Reason is correct"
+        ],
+        "answer": "Assertion is correct, Reason is incorrect",
+        "explanation": "The assertion that a car has mass and occupies space is correct, as it aligns with the definition of matter. However, the reason provided is incorrect because mass and volume are not the same thing. Mass is a measure of the amount of matter in an object, while volume is a measure of the space occupied by the object.",
+        "quality": {
+            "concept_accuracy": 9,
+            "bloom_alignment": 8,
+            "difficulty_accuracy": 9,
+            "distractor_quality": 7,
+            "explanation_quality": 9,
+            "ncert_alignment": 8,
+            "overall": 8,
+            "feedback": "The question is well-structured and accurately assesses the concept of matter. However, the reason statement could be more nuanced to better distinguish between mass and volume, and the distractors could be more carefully crafted to be more plausible."
+        }
+    },
+    {
+        "type": "Assertion-Reason",
+        "difficulty": "Medium",
+        "question": "Assertion: A car has mass and occupies space. Reason: The mass of a car is the same as its weight.",
+        "options": [
+            "Assertion is correct, Reason is correct and Reason explains Assertion",
+            "Assertion is correct, Reason is correct but Reason does not explain Assertion",
+            "Assertion is correct, Reason is incorrect",
+            "Assertion is incorrect, Reason is correct"
+        ],
+        "answer": "Assertion is correct, Reason is incorrect",
+        "explanation": "The assertion that a car has mass and occupies space is correct, as it aligns with the definition of matter. However, the reason stating that the mass of a car is the same as its weight is incorrect because mass and weight are not the same thing; mass is a measure of the amount of matter in an object, while weight is a measure of the force exerted on that object by gravity. Therefore, the reason does not correctly explain the assertion.",
+        "quality": {
+            "concept_accuracy": 9,
+            "bloom_alignment": 8,
+            "difficulty_accuracy": 8,
+            "distractor_quality": 7,
+            "explanation_quality": 9,
+            "ncert_alignment": 9,
+            "overall": 8,
+            "feedback": "The question is well-structured and accurately assesses the concept of matter. However, the distractors could be improved to make them more plausible and challenging for students. The explanation provided is clear and concise, and the question aligns well with the NCERT curriculum."
+        }
+    },
+    {
+        "type": "Subjective",
+        "difficulty": "Medium",
+        "question": "What is matter and how does it occupy space?",
+        "options": [],
+        "answer": "Matter is anything that has mass and takes up space by having volume.",
+        "explanation": "Matter has mass and occupies space, which means it has volume and takes up room.",
+        "quality": {
+            "concept_accuracy": 9,
+            "bloom_alignment": 8,
+            "difficulty_accuracy": 8,
+            "distractor_quality": 0,
+            "explanation_quality": 9,
+            "ncert_alignment": 9,
+            "overall": 8.5,
+            "feedback": "The question accurately assesses the concept of matter and its properties. However, it lacks options as it is a subjective question, which makes the distractor quality score 0. The explanation provided is clear and concise, aligning well with the NCERT curriculum."
+        }
+    }
+]

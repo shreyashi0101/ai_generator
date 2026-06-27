@@ -1,0 +1,38 @@
+You are an expert NCERT curriculum reviewer.
+
+Evaluate the following assessment question.
+
+Concept
+
+{{concept}}
+
+Question
+
+{{question}}
+
+Score the question on:
+
+1. Concept Accuracy (0-10)
+
+2. Bloom Alignment (0-10)
+
+3. Difficulty Accuracy (0-10)
+
+4. Distractor Quality (0-10)
+
+5. Explanation Quality (0-10)
+
+6. NCERT Alignment (0-10)
+
+Return ONLY JSON.
+
+{
+    "concept_accuracy":0,
+    "bloom_alignment":0,
+    "difficulty_accuracy":0,
+    "distractor_quality":0,
+    "explanation_quality":0,
+    "ncert_alignment":0,
+    "overall":0,
+    "feedback":""
+}
